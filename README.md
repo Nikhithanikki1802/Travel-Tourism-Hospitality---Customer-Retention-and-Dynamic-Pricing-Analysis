@@ -7,7 +7,9 @@ In the highly competitive travel and hospitality industry, revenue loss often oc
 **This project focuses on:**
 
 Understanding customer cancellation behavior (churn)
+
 Analyzing seasonal demand trends
+
 Building a data foundation for dynamic pricing systems
 
 Using Exploratory Data Analysis (EDA) and baseline machine learning models, this project aims to deliver actionable insights for improving revenue and customer retention.
@@ -15,6 +17,7 @@ Using Exploratory Data Analysis (EDA) and baseline machine learning models, this
 **Business Objectives**
 
 **Primary Goals:**
+
 Reduce booking cancellation rate
 
 Optimize Revenue Per Available Room (RevPAR)
@@ -22,6 +25,7 @@ Optimize Revenue Per Available Room (RevPAR)
 Enable data-driven dynamic pricing strategies
 
 **Key Deliverables:**
+
 Identify drivers of cancellations
 
 Analyze pricing elasticity
